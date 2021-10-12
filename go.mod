@@ -1,4 +1,4 @@
-module github.com/AllenDang/giu
+module github.com/poberube/giu
 
 go 1.16
 
